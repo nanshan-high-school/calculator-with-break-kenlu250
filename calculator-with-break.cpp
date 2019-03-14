@@ -18,7 +18,7 @@ int main() {
     cout << "請輸入數字:";
     cin >> math;
 
-    for (int i =`SDXDDDXCC   ; i > 0; i--){
+    for (int i = math.size(); i > 0; i--){
 
       if (math[time] >= '0' && math[time] <= '9'){
         math[time] -= '0';
